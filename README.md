@@ -49,6 +49,12 @@ Build an interactive Power BI dashboard suite and Python analytical visualizatio
 │
 ├── 📄 Dataset/
 │   └── adidas_sales_data.csv
+
+── 📘 PowerBI_File/
+│   └── Adidas_Sales_Analytics_Dashboard.pbix
+
+── 📘 Python Video File /
+│   └── Adidas_Sales_Analytics.png
 │
 └── 📘 README.md
 
